@@ -41,6 +41,9 @@ The training process involved the following configuration:
 - **Epochs**: 53
 - **Image Size**: 640 pixels
 
+## Model Link
+https://drive.google.com/drive/folders/1UiYrzcx-sSp0wI4YRELTCfxEHtCHFh-Z?usp=sharing
+
 ## Conclusion
 
 This challenge successfully demonstrated the effectiveness of the RT-DETR model in vehicle detection across varying weather and lighting scenarios. The use of Transformer-based architecture contributed to the model's robustness and real-time performance, making it suitable for real-world applications in dynamic environments.
