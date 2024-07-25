@@ -41,6 +41,9 @@ The training process involved the following configuration:
 - **Epochs**: 53
 - **Image Size**: 640 pixels
 
+## Dataset link
+https://drive.google.com/drive/folders/1qt1ULI16u4UsjLEloW8fVI-FEXS4eX3g?usp=sharing
+
 ## Model Link
 https://drive.google.com/drive/folders/1UiYrzcx-sSp0wI4YRELTCfxEHtCHFh-Z?usp=sharing
 
